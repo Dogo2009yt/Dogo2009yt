@@ -77,12 +77,6 @@
 
 <h2 align="left">MY GITHUB ACTIVITY</h2>
 
-###
-
-<img src="https://raw.githubusercontent.com/Dogo2009yt/Dogo2009yt/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dogo2009yt/Dogo2009yt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dogo2009yt/Dogo2009yt/output/pacman-contribution-graph.svg">
