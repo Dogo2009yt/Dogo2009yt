@@ -21,7 +21,7 @@
 ###
 
 <p align="left"><a href="https://dogoyt.itch.io/monoleap-mania">🎮 MonoLeap Mania</a>
-<br>📒 ToDoInTime with <a href="https://github.com/masterpat48">@Masterpat48</a><br>❌ Simple Tic Tac Toe</p>
+<br>📒 ToDoInTime with <a href="https://github.com/masterpat48">@Masterpat48</a><br><a href="https://github.com/Dogo2009yt/terminalCustomSplash">🐧 Terminal Custom Splash</a></p>
 
 ###
 
